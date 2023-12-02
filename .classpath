@@ -7,5 +7,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="F:/GitShankar/CSIT_Advanced_Java_Programming/Advanced Java Material/library/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="F:/GitShankar/CSIT_Advanced_Java_Programming/Advanced Java Material/library/JavaMailApi/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/GitShankar/CSIT_Advanced_Java_Programming/Advanced Java Material/library/JavaMailApi/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
