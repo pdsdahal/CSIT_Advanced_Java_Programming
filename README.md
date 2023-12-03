@@ -11,3 +11,5 @@ CSIT Advanced Java Programming
 [Unit 2 : User Interface Components with Swing](https://github.com/pdsdahal/CSIT_Advanced_Java_Programming/blob/main/Advanced%20Java%20Material/Assignments/Assignment-2.pdf)<br>
 [Unit 3 : Event Handling](https://github.com/pdsdahal/CSIT_Advanced_Java_Programming/blob/main/Advanced%20Java%20Material/Assignments/Assignment-3.pdf)<br>
 [Unit 4 : Database Connectivity](https://github.com/pdsdahal/CSIT_Advanced_Java_Programming/blob/main/Advanced%20Java%20Material/Assignments/Assignment-4.pdf)<br>
+[Unit 5 : Network Programming](https://github.com/pdsdahal/CSIT_Advanced_Java_Programming/blob/main/Advanced%20Java%20Material/Assignments/Assignment-5.pdf)<br>
+[Unit 6 : GUI with JavaFX](https://github.com/pdsdahal/CSIT_Advanced_Java_Programming/blob/main/Advanced%20Java%20Material/Assignments/Assignment-6.pdf)<br>
