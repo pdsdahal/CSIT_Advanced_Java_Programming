@@ -6,6 +6,9 @@ CSIT Advanced Java Programming
 
 * [Syllabus](https://github.com/pdsdahal/CSIT_Advanced_Java_Programming/blob/main/Advanced%20Java%20Material/Syllabus/AdvancedJavaProgrammingSyllabus.pdf)
 
+# Reference Code 
+[Unit 7 : Servlet and JSP](https://github.com/pdsdahal/CSIT_Advanced_Java_Servlet_And_JSP)
+
 # Assignments
 [Unit 1 : Programming in Java](https://github.com/pdsdahal/CSIT_Advanced_Java_Programming/blob/main/Advanced%20Java%20Material/Assignments/Assignment-1.pdf)<br>
 [Unit 2 : User Interface Components with Swing](https://github.com/pdsdahal/CSIT_Advanced_Java_Programming/blob/main/Advanced%20Java%20Material/Assignments/Assignment-2.pdf)<br>
